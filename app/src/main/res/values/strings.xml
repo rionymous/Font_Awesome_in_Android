@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Font Awesome</string>
+    <string name="address_book">&#xf2b9;</string>
+    <string name="address_card">&#xf2b5;</string>
+    <string name="angry">&#xf005;</string>
+    <string name="arrow_alt_circle_down">&#xf358;</string>
+    <string name="arrow_alt_circle_left">&#xf359;</string>
+    <string name="arrow_alt_circle_right">&#xf35a;</string>
+    <string name="arrow_alt_circle_up">&#xf35b;</string>
+    <string name="bell">&#xf0f3;</string>
+    <string name="bell_slash">&#xf1f6;</string>
+    <string name="bookmark">&#xf02e;</string>
+    <string name="building">&#xf1ad;</string>
+    <string name="calendar">&#xf133;</string>
+    <string name="calendar_alt">&#xf073;</string>
+    <string name="calendar_check">&#xf274;</string>
+    <string name="calendar_minus">&#xf272;</string>
+    <string name="calendar_plus">&#xf271;</string>
+    <string name="calendar_times">&#xf273;</string>
+    <string name="caret_square_down">&#xf150;</string>
+    <string name="caret_square_left">&#xf191;</string>
+    <string name="caret_square_right">&#xf152;</string>
+    <string name="caret_square_up">&#xf151;</string>
+    <string name="chart_bar">&#xf080;</string>
+    <string name="check_circle">&#xf058;</string>
+    <string name="check_square">&#xf14a;</string>
+</resources>
